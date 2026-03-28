@@ -25,6 +25,16 @@ tools/
 memory/
 config/
 
+## Running Local LLM
+
+Install Ollama
+
+ollama pull deepseek-coder
+
+Start model
+
+ollama run deepseek-coder
+
 ## Run Project
 
 pip install -r requirements.txt

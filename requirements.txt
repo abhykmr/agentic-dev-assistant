@@ -3,3 +3,5 @@ langchain
 playwright
 chromadb
 python-dotenv
+langchain_openai
+langchain-community
