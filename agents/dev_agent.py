@@ -1,6 +1,5 @@
 from langchain.agents import initialize_agent
 from langchain.tools import Tool
-from langchain_openai import ChatOpenAI
 from langchain_community.llms import Ollama
 
 
